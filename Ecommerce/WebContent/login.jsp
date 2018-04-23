@@ -16,11 +16,11 @@
 </tr>
 <tr>
 
-<td><input type="text" name="userName" value=""></td>
-<td><input type="password" name="password" value=""></td>
+<td><input type="text" name="userName"></td>
+<td><input type="password" name="password"></td>
 </tr>
 </table>
-<input type="submit" name="submit" value="login">
+<input type="submit" name="submit" value="Login">
 </form>
  <form name="register" action="register.jsp" method="post">
 
